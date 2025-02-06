@@ -1,4 +1,6 @@
-# Data Science Grad Student
+## Riley Arthur Fencl
+
+Data Science Graduate Student
 
 #### Technical Skills: R, Python, SQL, ML
 
