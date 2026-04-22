@@ -27,17 +27,12 @@ With a background in data science, I bring strong foundations in data processing
 
 [View Project](https://github.com/RileyAfencl/Projects/blob/main/K-Means%20Clustering%20Project/K-Means%20Clustering%20Project%20Code)
 
-#### Random Forest Model
-In this project I created a random forest model to predict food delilvery times. Ultimately, the model was quite powerful and this project demonstrates further my technical knowledge and understanding of data-modeling. 
-Not only does this model demonstrate a clear modeling process, it also demonstrates my understanding of data conceptually. Within the modeling process, many decision have to be made, and problems and issues have to be 
-addressed and this project does an exemplary job of tackling those challenges head on. 
+### Random Forest Delivery Time Prediction
 
-You can find the project code here: https://github.com/RileyAfencl/Projects/blob/main/Final%20Random%20Forest%20Project/Final%20Random%20Forest%20Code.R
+- Built a regression model to predict delivery times with a full data cleaning and preprocessing pipeline.  
+- Handled missing data via targeted imputation strategies for numeric and categorical features.
+- Evaluated performance using MAPE, RMSE, and R², achieving strong predictive accuracy.  
+- Performed parameter tuning across multiple configurations to improve model stability.  
 
-#### Neural Network Model
-In this project I created a neural network model based on bank data to attempt to predict customer churn. This project demonstrates my understanding of how to solve bigger problems that might be out of the scope of any 
-individual model. Not only do I correctly identify some of the structural issues with the data (80/20 classification imbalance), I also explain and demonstrate solutions to these complex issues. I successfully create and optimize a neural network, and I also identify potential paths forward and solutions to the weaknesses of the network.
-
-You can find the project code here:  https://github.com/RileyAfencl/Projects/blob/main/Neural%20Network%20Churn%20Modeling/Neural%20Network%20Code.R
-
+[View Code](https://github.com/RileyAfencl/Projects/blob/main/Final%20Random%20Forest%20Project/Final%20Random%20Forest%20Code.R)
 
