@@ -11,7 +11,7 @@ With a background in data science, I bring strong foundations in data processing
 ### Projects
 These are my top 3 projects that demonstrate my skills the best! All of these projects can be found in my projects repository at: https://github.com/RileyAfencl/Projects
 
-####LLM Evaluation & Orchestration Pipeline
+#### LLM Evaluation & Orchestration Pipeline
 
 A modular AI system designed to produce reliable, testable model outputs through structured orchestration and validation.
 
