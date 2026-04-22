@@ -18,7 +18,7 @@ With a background in data science, I bring strong foundations in data processing
 - Built evaluation and observability tooling, including run replay, diffing, and run-level summaries.
 - Developed policy-driven execution (re-ask, gating, second-pass logic) to adapt responses based on quality signals.
 
-[View Project](https://github.com/RileyAfencl/llm-decision-pipeline)
+[View Pipeline Repo](https://github.com/RileyAfencl/llm-decision-pipeline)
 
 #### K-Means Clustering Model
 - Built an end-to-end clustering pipeline, including data cleaning, feature engineering, and scaling.
