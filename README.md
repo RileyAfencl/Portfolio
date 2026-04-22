@@ -1,15 +1,11 @@
 ![Portfolio Headshot](/Assets/Images/Headshot.png)
 
-## Riley Arthur Fencl
-#### Data Science Graduate Student
-#### Technical Skills: R, Python, SQL, ML
+Riley Arthur Fencl
+AI Systems Engineer
 
-### Contact
-If you are looking to contact me for any reason, please shoot me an email at: RileyAfencl@gmail.com
+I build reliable AI systems with a focus on LLM pipelines, evaluation, and observability. My work centers on making model outputs testable, traceable, and production-ready through structured orchestration, validation, and controlled execution.
 
-### About Me
-Hey! I'm Riley Fencl—a former bartender turned data scientist. Years of engaging with people behind the bar taught me how to read between the lines, understand people, and communicate effectively to any audience. I specialize in using R and Python to uncover insights and build predictive models, with a strong interest in machine learning. My portfolio showcases projects where I break down complex data and make it actionable. I’m always looking for opportunities to blend analytical rigor with clear communication to drive impact. Welcome to my portfolio!
-
+With a background in data science, I bring strong foundations in data processing and modeling, but focus primarily on system design—ensuring AI systems are not just powerful, but dependable and understandable.
 ### Projects
 These are my top 3 projects that demonstrate my skills the best! All of these projects can be found in my projects repository at: https://github.com/RileyAfencl/Projects
 
