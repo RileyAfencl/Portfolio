@@ -16,8 +16,11 @@ These are my top 3 projects that demonstrate my skills the best! All of these pr
 A modular AI system designed to produce reliable, testable model outputs through structured orchestration and validation.
 
 Designed a step-based pipeline with strict input/output contracts and controlled state transitions
+
 Implemented schema validation, automatic JSON repair, and retry logic to handle unreliable model outputs
+
 Built evaluation and observability tooling, including run replay, diffing, and run-level summaries
+
 Developed policy-driven execution (re-ask, gating, second-pass logic) to adapt responses based on quality signals
 
 You can find the project code here: https://github.com/RileyAfencl/llm-decision-pipeline
