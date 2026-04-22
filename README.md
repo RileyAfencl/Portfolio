@@ -1,6 +1,7 @@
 ![Portfolio Headshot](/Assets/Images/Headshot.png)
 
 Riley Arthur Fencl
+
 AI Systems Engineer
 
 I build reliable AI systems with a focus on LLM pipelines, evaluation, and observability. My work centers on making model outputs testable, traceable, and production-ready through structured orchestration, validation, and controlled execution.
