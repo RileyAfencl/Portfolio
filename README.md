@@ -8,9 +8,9 @@ I build AI systems with a focus on LLM pipelines, evaluation, and observability.
 
 With a background in data science, I bring strong foundations in data processing and modeling, but focus primarily on system design—ensuring AI systems are not just powerful, but dependable and understandable.
 
-### Projects
+## Projects
 
-#### LLM Evaluation & Orchestration Pipeline
+### LLM Evaluation & Orchestration Pipeline
 
 - A modular AI system designed to produce reliable, testable model outputs through structured orchestration and validation.
 - Designed a step-based pipeline with strict input/output contracts and controlled state transitions.
@@ -20,7 +20,7 @@ With a background in data science, I bring strong foundations in data processing
 
 [View Pipeline Repo](https://github.com/RileyAfencl/llm-decision-pipeline)
 
-#### K-Means Clustering Model
+### K-Means Clustering Model
 - Built an end-to-end clustering pipeline, including data cleaning, feature engineering, and scaling.
 - Determined optimal clusters using elbow and silhouette methods.
 - Generated actionable customer segments to support marketing strategy.
