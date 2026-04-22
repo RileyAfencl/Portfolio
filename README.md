@@ -11,7 +11,16 @@ With a background in data science, I bring strong foundations in data processing
 ### Projects
 These are my top 3 projects that demonstrate my skills the best! All of these projects can be found in my projects repository at: https://github.com/RileyAfencl/Projects
 
-For me, my projects are all about demonstrating thinking and code documentation. I put a huge emphasis on the ability to follow along with my process, the ability to understand my code, and why I followed the steps that I did. I think each of the projects below capture that goal quite adequately and I am proud to show them off!
+####LLM Evaluation & Orchestration Pipeline
+
+A modular AI system designed to produce reliable, testable model outputs through structured orchestration and validation.
+
+Designed a step-based pipeline with strict input/output contracts and controlled state transitions
+Implemented schema validation, automatic JSON repair, and retry logic to handle unreliable model outputs
+Built evaluation and observability tooling, including run replay, diffing, and run-level summaries
+Developed policy-driven execution (re-ask, gating, second-pass logic) to adapt responses based on quality signals
+
+You can find the project code here: https://github.com/RileyAfencl/llm-decision-pipeline
 
 #### K-Means Clustering Model
 This is a project where I took customer purchasing data and used k-means clustering to derive the natural categories from the data, and then compared those categories to create real-world actionable insights. 
