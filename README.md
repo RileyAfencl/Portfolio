@@ -9,28 +9,23 @@ I build AI systems with a focus on LLM pipelines, evaluation, and observability.
 With a background in data science, I bring strong foundations in data processing and modeling, but focus primarily on system design—ensuring AI systems are not just powerful, but dependable and understandable.
 
 ### Projects
-These are my top 3 projects that demonstrate my skills the best! All of these projects can be found in my projects repository at: https://github.com/RileyAfencl/Projects
 
 #### LLM Evaluation & Orchestration Pipeline
 
-A modular AI system designed to produce reliable, testable model outputs through structured orchestration and validation.
+- A modular AI system designed to produce reliable, testable model outputs through structured orchestration and validation.
+- Designed a step-based pipeline with strict input/output contracts and controlled state transitions.
+- Implemented schema validation, automatic JSON repair, and retry logic to handle unreliable model outputs.
+- Built evaluation and observability tooling, including run replay, diffing, and run-level summaries.
+- Developed policy-driven execution (re-ask, gating, second-pass logic) to adapt responses based on quality signals.
 
-Designed a step-based pipeline with strict input/output contracts and controlled state transitions
-
-Implemented schema validation, automatic JSON repair, and retry logic to handle unreliable model outputs
-
-Built evaluation and observability tooling, including run replay, diffing, and run-level summaries
-
-Developed policy-driven execution (re-ask, gating, second-pass logic) to adapt responses based on quality signals
-
-You can find the project code here: https://github.com/RileyAfencl/llm-decision-pipeline
+[View Project](https://github.com/RileyAfencl/llm-decision-pipeline)
 
 #### K-Means Clustering Model
-This is a project where I took customer purchasing data and used k-means clustering to derive the natural categories from the data, and then compared those categories to create real-world actionable insights. 
-This project demonstrates my technical skill in exploratory anaylsis, data cleaning/preparation, cluster modeling and ultimately a large degree of practical understanding and application. Further, this project
-shows my capabilities in leveraging data to assist with marketing. 
+- Built an end-to-end clustering pipeline, including data cleaning, feature engineering, and scaling.
+- Determined optimal clusters using elbow and silhouette methods.
+- Generated actionable customer segments to support marketing strategy.
 
-You can find the project code here: https://github.com/RileyAfencl/Projects/blob/main/K-Means%20Clustering%20Project/K-Means%20Clustering%20Project%20Code
+[View Project](https://github.com/RileyAfencl/Projects/blob/main/K-Means%20Clustering%20Project/K-Means%20Clustering%20Project%20Code)
 
 #### Random Forest Model
 In this project I created a random forest model to predict food delilvery times. Ultimately, the model was quite powerful and this project demonstrates further my technical knowledge and understanding of data-modeling. 
