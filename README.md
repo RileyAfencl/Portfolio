@@ -2,11 +2,11 @@
 
 Riley Arthur Fencl
 
-AI Systems Engineer
+AI Systems & Data Engineer
 
-I build AI systems with a focus on LLM pipelines, evaluation, and observability. My work centers on making model outputs testable, traceable, and production-ready through structured orchestration, validation, and controlled execution.
+With a background in data science, I bring strong foundations in data engineering and analytics to my current work. My focus is on building reliable AI systems that can handle common failure modes, produce consistent and testable outputs in non-deterministic environments, and provide clear system visibility through metrics and reporting.
 
-With a background in data science, I bring strong foundations in data processing and modeling, but focus primarily on system design—ensuring AI systems are dependable, observable, and testable.
+I am particularly interested in LLM pipelines and AI automation, with the goal of building production-ready systems for real-world applications.
 
 ## Selected Projects
 
@@ -16,8 +16,10 @@ With a background in data science, I bring strong foundations in data processing
 - Implemented schema validation, automatic JSON repair, and retry logic to handle unreliable model outputs.
 - Built evaluation and observability tooling, including run replay, diffing, and run-level summaries.
 - Developed policy-driven execution (re-ask, gating, second-pass logic) to adapt responses based on quality signals.
+- Designed and executed a controlled experiment to evaluate temperature effects across 300 runs and 6 experimental conditions.
+- Built and deployed an interactive Streamlit dashboard to visualize pipeline reliability, grading, and confidence metrics.
 
-[View Pipeline Repo](https://github.com/RileyAfencl/llm-decision-pipeline)
+[View Pipeline Repo](https://github.com/RileyAfencl/llm-decision-pipeline) | [Live Dashboard](https://llm-temperature-stabillity.streamlit.app/)
 
 ### K-Means Clustering Model
 - Built an end-to-end clustering pipeline, including data cleaning, feature engineering, and scaling.
@@ -33,5 +35,5 @@ With a background in data science, I bring strong foundations in data processing
 - Evaluated performance using MAPE, RMSE, and R², achieving strong predictive accuracy.  
 - Performed parameter tuning across multiple configurations to improve model stability.  
 
-[View Code](https://github.com/RileyAfencl/Projects/blob/main/Final%20Random%20Forest%20Project/Final%20Random%20Forest%20Code.R)
+[View Project](https://github.com/RileyAfencl/Projects/blob/main/Final%20Random%20Forest%20Project/Final%20Random%20Forest%20Code.R)
 
