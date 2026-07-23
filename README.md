@@ -13,6 +13,8 @@ I am particularly interested in LLM pipelines and AI automation, with the goal o
 ### Squad Up Mobile App (In Development)
 **Built With:** React Native • TypeScript • Ruby on Rails • PostgreSQL • REST API • Vue 3
 
+| ![Discover Page](/Assets/Images/Discover_Page.png) | ![Posting Board](/Assets/Images/Posting_Board.png) | ![Posting Board Modal](/Assets/Images/Posting_Board_2.png)
+
 - Designing and building a full-stack mobile application that helps people organize local recreational activities and connect with others who share similar interests.
 - Designing and developing a PostgreSQL relational database and Ruby on Rails backend to manage users, activities, participation, messaging, and moderation.
 - Developing a React Native client that communicates with the backend through a REST API to support account management, activity creation, messaging, and event participation.
