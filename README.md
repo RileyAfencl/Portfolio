@@ -11,7 +11,7 @@ I am particularly interested in LLM pipelines and AI automation, with the goal o
 ## Selected Projects
 
 ### Squad Up Mobile App (In Development)
-Built With: React Native • TypeScript • Ruby on Rails • PostgreSQL • REST API • Vue 3
+**Built With:** React Native • TypeScript • Ruby on Rails • PostgreSQL • REST API • Vue 3
 
 - Designing and building a full-stack mobile application that helps people organize local recreational activities and connect with others who share similar interests.
 - Designing and developing a PostgreSQL relational database and Ruby on Rails backend to manage users, activities, participation, messaging, and moderation.
@@ -21,7 +21,7 @@ Built With: React Native • TypeScript • Ruby on Rails • PostgreSQL • RES
 [View Squad Up Repository](https://github.com/RileyAfencl/sports-meet-app)
 
 ### LLM Evaluation & Orchestration Pipeline
-Built With: Python • OpenAI API • Streamlit • Pandas • Pytest • JSON • Git
+**Built With:** Python • OpenAI API • Streamlit • Pandas • Pytest • Git
 
 - Designed a step-based pipeline with strict input/output contracts and controlled state transitions.
 - Implemented schema validation, automatic JSON repair, and retry logic to handle unreliable model outputs.
@@ -33,7 +33,7 @@ Built With: Python • OpenAI API • Streamlit • Pandas • Pytest • JSON �
 [View Pipeline Repo](https://github.com/RileyAfencl/llm-decision-pipeline) | [Live Dashboard](https://llm-temperature-stabillity.streamlit.app/)
 
 ### Random Forest Delivery Time Prediction
-Built With: R • Random Forest • Data Cleaning • Feature Engineering • Statistical Modeling
+**Built With:** R • Random Forest • Data Cleaning • Feature Engineering • Statistical Modeling
 
 - Built a regression model to predict delivery times with a full data cleaning and preprocessing pipeline.  
 - Handled missing data via targeted imputation strategies for numeric and categorical features.
