@@ -13,6 +13,8 @@ I am particularly interested in LLM pipelines and AI automation, with the goal o
 ### Squad Up Mobile App (In Development)
 **Built With:** React Native • TypeScript • Ruby on Rails • PostgreSQL • REST API • Vue 3
 
+[View Website](https://squaduplanding.netlify.app/)
+
 | Discover Page | Posting Board |
 | :-----------: | :-----------: |
 | ![Discover Page](/Assets/Images/Discover_Page.png) | ![Posting Board](/Assets/Images/Posting_Board.png)
